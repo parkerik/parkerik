@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning git and github
+- 🌱 Not much to see, most repos are private
