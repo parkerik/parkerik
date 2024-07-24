@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 Not much to see, most repos are private
+![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkerik&show_icons=true&theme=onedark)
